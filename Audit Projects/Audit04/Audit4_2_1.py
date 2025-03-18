@@ -302,9 +302,9 @@ if __name__ == "__main__":
     car.show()
 
     for i in range(100):
-        car.move(50, 0)
+        car.move(1, 0)
         update()
-        time.sleep(0.15)
+        time.sleep(0.02)
     done()
 
 
