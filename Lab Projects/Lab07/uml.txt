@@ -1,0 +1,20 @@
+[Figure] (abstract)
+  |
+  +-- [Triangle]
+  |     |
+  |     +-- [TriangularPyramid]
+  |     +-- [TriangularPrism]
+  |
+  +-- [Rectangle]
+  |     |
+  |     +-- [QuadrangularPyramid]
+  |     +-- [RectangularParallelepiped]
+  |
+  +-- [Trapeze]
+  |
+  +-- [Parallelogram]
+  |
+  +-- [Circle]
+  |     |
+  |     +-- [Ball]
+  |     +-- [Cone]
